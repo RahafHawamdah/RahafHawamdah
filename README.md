@@ -1,6 +1,6 @@
 # Rahaf Mohamed
 
-![Profile Picture](https://via.placeholder.com/150)
+
 
 **Frontend Developer** with experience in:
 
@@ -26,5 +26,4 @@
 
 ---
 
-![Rahaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&count_private=true&show_icons=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide=TeX&layout=compact)
+
